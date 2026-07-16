@@ -1,11 +1,11 @@
-# The Falcon 360° Bahrain Sentinel-2 Dataset
+# The Falcon 360° Bahrain HD Google Earth Dataset
 
 
 ## Dataset Summary
 
-The Falcon 360° Bahrain Sentinel-2 Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
+The Falcon 360° Bahrain HD Google Earth Dataset is an AI-ready HD Google Earthimagery dataset created for computer vision and deep learning applications.
 
-The dataset contains RGB satellite image patches generated from Sentinel-2 Level-2A imagery covering Bahrain.
+The dataset contains RGB HD Google Earthimage patches generated from HD Google Earth Level-2A imagery covering Bahrain.
 
 ## Dataset Download
 
@@ -51,7 +51,7 @@ Bahrain
 
 Satellite:
 
-Sentinel-2 MSI
+HD Google Earth MSI
 
 
 Product:
@@ -101,7 +101,7 @@ Recommended applications:
 The dataset was created through:
 
 - Geographic area selection
-- Sentinel-2 retrieval
+- HD Google Earth retrieval
 - Cloud filtering
 - RGB extraction
 - Quality control
@@ -113,9 +113,7 @@ The dataset was created through:
 
 ## Data Source
 
-Copernicus Sentinel-2 Mission.
-
-Accessed through Microsoft Planetary Computer.
+HD Google Earth Scan.
 
 
 ---
@@ -124,7 +122,7 @@ Accessed through Microsoft Planetary Computer.
 
 Walaa Ali H. Jumiawi (2026).
 
-The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0.
+The Falcon 360° Bahrain HD Google Earth Dataset v1.0.
 
 Zenodo.
 
