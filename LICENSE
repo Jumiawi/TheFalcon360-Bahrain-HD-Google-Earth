@@ -1,17 +1,14 @@
-The Falcon 360° Dataset License
+# The Falcon 360° Dataset License
 
-Copyright (c) 2026 Walaa Ali H. Jumiawi
+**Copyright © 2026 Walaa Ali H. Jumiawi**
 
-Organization:
+**Organization:**
 The Falcon 360°
 
-The dataset organization, preprocessing pipeline,
-metadata, and documentation are provided by
-The Falcon 360°.
+The dataset organization, preprocessing pipeline, metadata, and documentation are provided by **The Falcon 360°**.
 
-The underlying Sentinel-2 satellite imagery
-originates from the Copernicus Sentinel-2 mission
-and remains subject to its original data terms.
+The underlying imagery was generated from **Google Earth** and remains subject to Google's applicable Terms of Service and licensing. This dataset does not transfer ownership of the original imagery or any rights held by Google.
 
-Users must properly cite this dataset when using
-it for research, publications, or applications.
+Users are responsible for ensuring that their use of the dataset complies with all applicable Google Earth licensing terms and conditions.
+
+If you use this dataset in research, publications, or applications, please cite **The Falcon 360°** dataset and its associated Zenodo DOI.
