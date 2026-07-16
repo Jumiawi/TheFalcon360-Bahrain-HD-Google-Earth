@@ -1,5 +1,6 @@
+```json
 {
-  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Dataset",
+  "dataset_name": "The Falcon 360° Bahrain Google Earth HD Dataset",
 
   "version": "1.0",
 
@@ -9,7 +10,9 @@
 
   "country": "Bahrain",
 
-  "sensor": "Sentinel-2 MSI",
+  "imagery_source": "Google Earth",
+
+  "image_type": "High-Definition RGB Imagery",
 
   "image_channels": 3,
 
@@ -18,8 +21,7 @@
   "image_width": 512,
 
   "formats": [
-    "PNG",
-    "GeoTIFF"
+    "PNG"
   ],
 
   "tasks": [
@@ -28,3 +30,4 @@
     "detection"
   ]
 }
+```
