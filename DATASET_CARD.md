@@ -1,75 +1,54 @@
-# The Falcon 360° Bahrain Sentinel-2 Dataset
-
+# The Falcon 360° Bahrain Google Earth HD Dataset
 
 ## Dataset Summary
 
-The Falcon 360° Bahrain Sentinel-2 Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
+The Falcon 360° Bahrain Google Earth HD Dataset is an AI-ready high-resolution aerial imagery dataset created for computer vision, geospatial analysis, and deep learning applications.
 
-The dataset contains RGB satellite image patches generated from Sentinel-2 Level-2A imagery covering Bahrain.
+The dataset contains high-definition RGB image patches generated from Google Earth imagery covering Bahrain.
 
+---
 
 ## Creator
 
-Author:
+**Author**
 
 Walaa Ali H. Jumiawi
 
-
-Organization:
+**Organization**
 
 The Falcon 360°
 
-
-Website:
+**Website**
 
 https://thefalcon360.com
 
-
-ORCID:
+**ORCID**
 
 https://orcid.org/0000-0002-5348-7970
-
 
 ---
 
 ## Dataset Details
 
-Country:
+**Country**
 
 Bahrain
 
+**Imagery Source**
 
-Satellite:
+Google Earth
 
-Sentinel-2 MSI
+**Image Type**
 
+High-Definition (HD) RGB Imagery
 
-Product:
-
-Level-2A
-
-
-Bands:
-
-- B04 Red
-- B03 Green
-- B02 Blue
-
-
-Resolution:
-
-10 meters/pixel
-
-
-Image Size:
+**Image Size**
 
 512 × 512 pixels
 
+**Format**
 
-Format:
-
-PNG and GeoTIFF
-
+PNG
 
 ---
 
@@ -77,12 +56,13 @@ PNG and GeoTIFF
 
 Recommended applications:
 
-- Semantic segmentation
-- Image classification
-- Object detection
-- Remote sensing AI
-- Deep learning benchmarking
-
+* Semantic segmentation
+* Image classification
+* Object detection
+* Land-cover analysis
+* Remote sensing AI
+* Deep learning benchmarking
+* Computer vision research
 
 ---
 
@@ -90,23 +70,20 @@ Recommended applications:
 
 The dataset was created through:
 
-- Geographic area selection
-- Sentinel-2 retrieval
-- Cloud filtering
-- RGB extraction
-- Quality control
-- Normalization
-- Dataset packaging
-
+* Geographic area selection
+* High-resolution image acquisition from Google Earth
+* Image preprocessing
+* Quality control
+* Normalization
+* Dataset packaging
 
 ---
 
 ## Data Source
 
-Copernicus Sentinel-2 Mission.
+Google Earth.
 
-Accessed through Microsoft Planetary Computer.
-
+The underlying imagery is provided by Google and remains subject to Google's applicable Terms of Service and licensing conditions.
 
 ---
 
@@ -114,9 +91,10 @@ Accessed through Microsoft Planetary Computer.
 
 Walaa Ali H. Jumiawi (2026).
 
-The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0.
+**The Falcon 360° Bahrain Google Earth HD Dataset v1.0.**
 
 Zenodo.
 
-DOI:
+**DOI:**
+
 10.5281/zenodo.21270614
