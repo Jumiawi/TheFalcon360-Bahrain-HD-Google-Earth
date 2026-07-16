@@ -1,5 +1,6 @@
+```json
 {
-  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0",
+  "dataset_name": "The Falcon 360° Bahrain Google Earth HD Dataset v1.0",
 
   "creator": {
     "name": "Walaa Ali H. Jumiawi",
@@ -10,32 +11,28 @@
 
   "country": "Bahrain",
 
-  "satellite": "Sentinel-2 MSI",
+  "imagery_source": "Google Earth",
 
-  "product": "Level-2A",
+  "image_type": "High-Definition RGB Imagery",
 
-  "bands": [
-    "B04 Red",
-    "B03 Green",
-    "B02 Blue"
-  ],
-
-  "resolution": "10 meters per pixel",
+  "resolution": "High Definition (HD)",
 
   "patch_size": "512x512",
 
   "formats": [
-    "PNG",
-    "GeoTIFF"
+    "PNG"
   ],
 
   "tasks": [
     "semantic segmentation",
     "classification",
-    "object detection"
+    "object detection",
+    "land-cover analysis",
+    "computer vision"
   ],
 
-  "source": "Copernicus Sentinel-2 via Microsoft Planetary Computer",
+  "source": "Google Earth",
 
   "publisher": "The Falcon 360°"
 }
+```
