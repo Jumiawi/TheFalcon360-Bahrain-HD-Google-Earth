@@ -47,7 +47,7 @@ Country:
 
 Bahrain
 
-![Bahrain Dataset Preview](assets/Bahrain.png)
+![Bahrain Dataset Preview](assets/BahrainHD.png)
 
 Satellite:
 
