@@ -12,11 +12,11 @@ The dataset contains RGB image patches generated from high-definition Google Ear
 
 The complete dataset is available from Zenodo:
 
-[https://doi.org/10.5281/zenodo.21270614](https://doi.org/10.5281/zenodo.21402853)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21402853.svg)](https://doi.org/10.5281/zenodo.21402853)
 
 **Direct download:**
 
-https://zenodo.org/records/21270614/files/sentinel2_bahrain_research_dataset%202.zip?download=1
+https://zenodo.org/records/21402853/files/Bahrain_HD_GE_Remote_Sensing.zip?download=1
 
 ---
 
@@ -110,7 +110,7 @@ Jumiawi, W. A. H. (2026). TheFalcon360-Bahrain-HD-Google-Earth Dataset v1.0 [Dat
 
 **DOI**
 
-https://doi.org/10.5281/zenodo.21402853
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21402853.svg)](https://doi.org/10.5281/zenodo.21402853)
 
 
 Jumiawi, W. A. H. (2026). TheFalcon360-Bahrain-HD-Google-Earth Dataset v1.0 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21402853
