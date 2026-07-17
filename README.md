@@ -49,9 +49,9 @@ Bahrain
 
 ![Bahrain Dataset Preview](assets/BahrainHD.png)
 
-Satellite:
+Source:
 
-HD Google Earth MSI
+HD Google Earth Scan
 
 
 Product:
