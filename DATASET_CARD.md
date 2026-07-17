@@ -96,5 +96,4 @@ Walaa Ali H. Jumiawi (2026).
 Zenodo.
 
 **DOI:**
-
-[10.5281/zenodo.21270614](https://doi.org/10.5281/zenodo.21402853)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21402853.svg)](https://doi.org/10.5281/zenodo.21402853)
