@@ -1,11 +1,12 @@
 # The Falcon 360° Bahrain HD Google Earth Dataset
 
-
 ## Dataset Summary
 
-The Falcon 360° Bahrain HD Google Earth Dataset is an AI-ready HD Google Earthimagery dataset created for computer vision and deep learning applications.
+The Falcon 360° Bahrain HD Google Earth Dataset is an AI-ready high-resolution imagery dataset developed for computer vision, geospatial analysis, and deep learning applications.
 
-The dataset contains RGB HD Google Earthimage patches generated from HD Google Earth Level-2A imagery covering Bahrain.
+The dataset contains RGB image patches generated from high-definition Google Earth imagery covering Bahrain.
+
+---
 
 ## Dataset Download
 
@@ -13,73 +14,55 @@ The complete dataset is available from Zenodo:
 
 https://doi.org/10.5281/zenodo.21270614
 
-Direct download:
+**Direct download:**
 
 https://zenodo.org/records/21270614/files/sentinel2_bahrain_research_dataset%202.zip?download=1
 
+---
+
 ## Creator
 
-Author:
+**Author**
 
 Walaa Ali H. Jumiawi
 
-
-Organization:
+**Organization**
 
 The Falcon 360°
 
-
-Website:
+**Website**
 
 https://thefalcon360.com
 
-
-ORCID:
+**ORCID**
 
 https://orcid.org/0000-0002-5348-7970
-
 
 ---
 
 ## Dataset Details
 
-Country:
+**Country**
 
 Bahrain
 
 ![Bahrain Dataset Preview](assets/BahrainHD.png)
 
-Source:
+**Imagery Source**
 
-HD Google Earth Scan
+Google Earth
 
+**Image Type**
 
-Product:
+High-Definition RGB Imagery
 
-Level-2A
-
-
-Bands:
-
-- B04 Red
-- B03 Green
-- B02 Blue
-
-
-Resolution:
-
-10 meters/pixel
-
-
-Image Size:
+**Image Size**
 
 512 × 512 pixels
 
+**Format**
 
-Format:
-
-PNG and GeoTIFF
-
+PNG
 
 ---
 
@@ -87,12 +70,13 @@ PNG and GeoTIFF
 
 Recommended applications:
 
-- Semantic segmentation
-- Image classification
-- Object detection
-- Remote sensing AI
-- Deep learning benchmarking
-
+* Semantic segmentation
+* Image classification
+* Object detection
+* Land-cover analysis
+* Remote sensing AI
+* Deep learning benchmarking
+* Computer vision research
 
 ---
 
@@ -100,21 +84,21 @@ Recommended applications:
 
 The dataset was created through:
 
-- Geographic area selection
-- HD Google Earth retrieval
-- Cloud filtering
-- RGB extraction
-- Quality control
-- Normalization
-- Dataset packaging
-
+* Geographic area selection
+* High-resolution Google Earth image acquisition
+* Image patch generation
+* Quality control
+* Dataset organization
+* Metadata generation
+* Dataset packaging
 
 ---
 
 ## Data Source
 
-HD Google Earth Scan.
+Google Earth.
 
+The underlying imagery originates from Google Earth and remains subject to Google's applicable Terms of Service and licensing conditions.
 
 ---
 
@@ -122,11 +106,10 @@ HD Google Earth Scan.
 
 Walaa Ali H. Jumiawi (2026).
 
-The Falcon 360° Bahrain HD Google Earth Dataset v1.0.
+**The Falcon 360° Bahrain HD Google Earth Dataset v1.0.**
 
 Zenodo.
 
-DOI:
+**DOI**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21270614.svg)](https://doi.org/10.5281/zenodo.21270614)
-
-
